@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Bill-Adepoju/preview-card)
-- Live Site URL: [live link](https://bill-adepoju.github.io/preview-card/)
+- Live Site URL: [live link](https://anomandar.github.io/preview-card/)
 
 ## My process
 
